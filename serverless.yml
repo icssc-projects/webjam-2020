@@ -1,0 +1,13 @@
+org: icsscproject
+app: webjam
+name: react-starter
+component: website
+
+inputs:
+  src:
+    src: ./src
+    hook: npm run build
+    dist: ./dist
+  domain: icssc-webjam.com
+
+    
